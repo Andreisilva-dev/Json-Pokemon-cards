@@ -1,0 +1,52 @@
+[
+    {   "nome":"Bulbasur",
+        "Tipo1":"Grass",
+        "Tipo2":"Poisen",
+        "imagem":"images/Bulbasaur.png"
+    },
+    {
+        "nome":"ivysaur",
+        "Tipo1":"Grass",
+        "Tipo2":"Poisen",
+        "imagem":"images/Ivysaur.png"
+    },
+    {
+        "nome":"venusaur",
+        "Tipo1":"Grass",
+        "Tipo2":"Poisen",
+        "imagem":"images/Venusaur.png"
+    },
+    {
+        "nome":"Charmander",
+        "Tipo1":"Fire",
+        "imagem":"images/Charmander.png"
+        
+    },
+    {
+        "nome":"Charmeleon",
+        "Tipo1":"Fire",
+        "imagem":"images/Charmeleon.png"
+    },
+    {
+        "nome":"Charizard",
+        "Tipo1":"Fire",
+        "Tipo2":"Flying",
+        "imagem":"images/Charizard.png"
+    },
+    {
+        "nome":"Squirtle",
+        "Tipo1":"Water",
+        "imagem":"images/Squirtle.png"
+    },
+    {
+        "nome":"wartortle",
+        "Tipo1":"Water",
+        "imagem":"images/Wartortle.png"
+    },
+    {
+        "nome":"Blastoise",
+        "Tipo1":"Water",
+        "imagem":"images/Blastoise.png"
+    }
+
+]
