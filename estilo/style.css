@@ -1,0 +1,65 @@
+        img {
+            width: 200px;
+        }
+
+        .cards {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .card {
+            margin: auto;
+            width: 200px;
+            border: 1px solid #ccc;
+            height: 350px;
+        }
+
+        p {
+            margin-left: 15px;
+            text-transform: uppercase;
+            font-weight: bold;
+        }
+        .tipoPlanta {
+            background-color: green;
+            width: fit-content;
+            color: white;
+            padding: 5px;
+            border-radius: 8px;
+        }
+
+        .tipoFogo {
+            background-color: rgb(217, 81, 18);
+            width: fit-content;
+            color: white;
+            padding: 5px;
+            border-radius: 8px;
+        }
+
+        .tipoAgua {
+            background-color: rgb(18, 25, 217);
+            width: fit-content;
+            color: white;
+            padding: 5px;
+            border-radius: 8px;
+        }
+
+        .tipoVeneno {
+            background-color: rgb(237, 14, 229);
+            width: fit-content;
+            color: white;
+            padding: 5px;
+            border-radius: 8px;
+        }
+
+        .tipoVoador {
+            background-color: rgb(72, 254, 227);
+            width: fit-content;
+            color: white;
+            padding: 5px;
+            border-radius: 8px;
+        }
+
+        .ladoAlado {
+            display: flex;
+            gap: 5px;
+        }
